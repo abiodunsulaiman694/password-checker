@@ -1,6 +1,6 @@
 ## A password checker built with python
 
-A subset of the hashed password is sent to pwnedpasswords API to check if the password has ever been pawned before
+A subset of the hashed password is sent to pwnedpasswords API to check if the password has ever been compromised
 
 The complete password is never sent over the network and remains on the host machine.
 
